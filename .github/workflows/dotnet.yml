@@ -26,3 +26,7 @@ jobs:
     - name: Test
       working-directory: src/WebApplicationOnion
       run: dotnet test --no-build --verbosity normal
+    - name: PowerShell script     
+      uses: Amadevus/pwsh-script@v2.0.1
+      with:
+        script: ls -r
