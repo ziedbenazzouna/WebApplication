@@ -76,3 +76,4 @@ _[Ss]cripts
 /src/WebApplicationOnion/WebApplication/wwwroot/lib/bootstrap/dist/*
 /src/WebApplicationOnion/WebApplication/obj/*
 /src/WebApplicationOnion/WebApplication/wwwroot/lib/jquery/dist/*
+/src/WebApplicationOnion/.vs/*
